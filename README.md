@@ -2,9 +2,9 @@
   <h1><b>Hi there, I'm Bárbara 🙃<b></h1>
 </div>
 
+- 📚 Fullstack developer
 - 👩‍🔬 Bachelor's degree in physics
 - 🔭 I'm currently looking for a new job opportunity !
-- 📚 I’m currently in a Fullstack developer course at StartSe & Tech Academy
 
 <div align="center">
   <a href="https://github.com/schvuchov">
