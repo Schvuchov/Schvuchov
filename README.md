@@ -1,9 +1,9 @@
 <div  align="center">
   <h1><b>Hi there, I'm Bárbara 🙃<b></h1>
 </div>
-
-- 📚 Fullstack developer course (StartSe & Tech Academy)
+    
 - 👩‍🔬 Bachelor's degree in physics (UFSC)
+- 📚 Fullstack developer course (StartSe & Tech Academy)
 - 🔭 I'm currently looking for a new job opportunity !
 
 <div align="center">
