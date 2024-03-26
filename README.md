@@ -3,6 +3,7 @@
 </div>
     
 - 👩‍🔬 Bachelor's degree in physics (UFSC)
+- 📚 React.js course (Entra21 & SENAI)
 - 📚 Fullstack developer course (StartSe & Tech Academy)
 - 🔭 I'm currently looking for a new job opportunity !
 
